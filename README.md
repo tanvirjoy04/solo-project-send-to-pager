@@ -1,5 +1,5 @@
 # Solo Project (PRO) - Send to Pager
-Solo Project aimed for Advanced Students learning Frontend development.
+Solo Project aimed for Advanced Students learning Frontend development & javascript.
 
 ## Requirements
 - Build it from scratch

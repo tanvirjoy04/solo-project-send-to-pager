@@ -1,0 +1,90 @@
+body{
+    margin:0;
+}
+
+.container{
+  /* border: 2px solid red; */
+  padding: 20px;
+}
+
+.pager-title-box{
+  border:5px solid #283033;
+  background-color: #283033;
+  color: white;
+  text-align: center;
+  font-size: 40px;
+  padding-top: 10px;
+  font-family: 'Press Start 2P';
+  margin-bottom: 60px;
+}
+
+.pager-display{
+  background-color: #9EC4B3;
+  color: black;
+  margin:18px;
+  font-size: 50px;
+  font-family: 'Press Start 2P';
+  padding: 30px;
+  height:50px;
+}
+
+
+.phone-title-box{
+  border:5px solid #D9D9D9;
+  background-color: #D9D9D9;
+  text-align: center;
+  font-size: 40px;
+  padding-top: 10px;
+  font-family: 'Press Start 2P';
+}
+
+.phone-display{
+  background-color: #444444;
+  color: white;
+  margin:18px;
+  font-size: 50px;
+  font-family: 'Press Start 2P';
+  padding: 30px;
+  margin-bottom: 0;
+  height:50px;
+}
+
+.btn-row-one button,
+.btn-row-two button,
+.btn-row-three button,
+.btn-row-four button{
+  font-family: 'Press Start 2P';
+  font-size: 40px;
+  padding:30px 110px;
+}
+
+.btn-row-one,
+.btn-row-two,
+.btn-row-three,
+.btn-row-four{
+  margin: 30px 0; 
+}
+
+.dial-box{
+  border: 5px solid #D9D9D9;
+}
+
+.reset{
+  color: white;
+  margin-top:-18px;
+  padding: 30px 340px;
+  background-color: #BE482A;
+}
+
+.send{
+  margin:18px 0 8px;
+  padding: 30px 360px;
+  background-color: #3D9C7C;
+}
+
+.reset,
+.send{
+  border: 3px solid black;
+  font-size: 40px;
+  font-family: 'Press Start 2P';
+}
